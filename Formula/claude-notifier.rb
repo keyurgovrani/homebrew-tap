@@ -1,8 +1,8 @@
 class ClaudeNotifier < Formula
   desc "macOS notifications for Claude Code with the Claude icon"
   homepage "https://github.com/keyurgovrani/claude-notifier"
-  url "https://github.com/keyurgovrani/claude-notifier/releases/download/v1.1.0/claude-notifier.zip"
-  sha256 "959b2e435582da8501afe265b9fbde3bbab92304a843676af69c022f217035f7"
+  url "https://github.com/keyurgovrani/claude-notifier/releases/download/v1.1.1/claude-notifier.zip"
+  sha256 "fdb5c35d320b7c033ac3a509290d9fcafb7f578423e56767f6a3841c57ccf7b4"
 
   depends_on "jq"
   depends_on :macos
